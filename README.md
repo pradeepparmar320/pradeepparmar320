@@ -6,7 +6,7 @@ Frontend Developer
 
 I have learned HTML and CSS and now learning Javascript.
 
-* 🌍  I'm based in Udaipur,India
+* 🌍  I am based in Udaipur,India
 * ✉️  You can contact me at [parmarpradeep320@gmail.com](mailto:parmarpradeep320@gmail.com)
 * 🧠  I'm learning Javascript
 
