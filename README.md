@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have learned HTML and CSS and now learning Javascript.
+I have learned HTML and CSS and now learning Javascript
 
 * 🌍  I am based in Udaipur,India
 * ✉️  You can contact me at [parmarpradeep320@gmail.com](mailto:parmarpradeep320@gmail.com)
