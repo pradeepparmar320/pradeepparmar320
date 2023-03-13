@@ -28,10 +28,9 @@ I have learned HTML and CSS and now learning Javascript
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pradeepparmar320"><img src="https://github-readme-stats.vercel.app/api?username=pradeepparmar320&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pradeepparmar320's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/pradeepparmar320"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepparmar320&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepparmar320)]
 
 ![Profile views](https://gpvc.arturio.dev/pradeepparmar320)  
